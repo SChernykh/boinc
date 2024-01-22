@@ -37,10 +37,10 @@
 ## build settings (except in the checkDpendentVesions.sh script.)
 ##
 
-opensslDirName="openssl-3.0.0"
+opensslDirName="openssl-3.2.0"
 opensslBaseName="openssl"
-opensslFileName="openssl-3.0.0.tar.gz"
-opensslURL="https://www.openssl.org/source/openssl-3.0.0.tar.gz"
+opensslFileName="openssl-3.2.0.tar.gz"
+opensslURL="https://www.openssl.org/source/openssl-3.2.0.tar.gz"
 
 caresDirName="c-ares-1.17.2"
 caresBaseName="c-ares"
